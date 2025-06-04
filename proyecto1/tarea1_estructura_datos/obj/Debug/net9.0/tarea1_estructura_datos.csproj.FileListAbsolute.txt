@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\bin\Debug\net9.0\tarea1_estructura_datos.exe
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\bin\Debug\net9.0\tarea1_estructura_datos.deps.json
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\bin\Debug\net9.0\tarea1_estructura_datos.runtimeconfig.json
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\bin\Debug\net9.0\tarea1_estructura_datos.dll
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\bin\Debug\net9.0\tarea1_estructura_datos.pdb
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.dll
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\refint\tarea1_estructura_datos.dll
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.pdb
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\tarea1_estructura_datos.genruntimeconfig.cache
+C:\Users\ronal\OneDrive\Escritorio\proyecto1\tarea1_estructura_datos\obj\Debug\net9.0\ref\tarea1_estructura_datos.dll
